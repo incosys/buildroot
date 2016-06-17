@@ -5,7 +5,7 @@
 ################################################################################
 
 WILC1000_FIRMWARE_VERSION = 14.1
-WILC1000_FIRMWARE_SITE = https://github.com/linux4sc/wireless-firmware/archive
+WILC1000_FIRMWARE_SITE = https://github.com/inco/wireless-firmware/archive
 WILC1000_FIRMWARE_SOURCE = v$(WILC1000_FIRMWARE_VERSION)_Firmware.zip
 
 WILC1000_FIRMWARE_LICENSE = PROPRIETARY

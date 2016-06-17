@@ -3,4 +3,4 @@ config BR2_PACKAGE_WILC1000_FIRMWARE
 	help
 	  Firmware for Atmel Wilc1000 wireless device
 
-	  https://github.com/linux4sc/wireless-firmware.git
+	  https://github.com/inco/wireless-firmware.git
